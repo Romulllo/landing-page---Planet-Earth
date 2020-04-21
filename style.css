@@ -1,0 +1,21 @@
+body {
+background: #3A506B;
+color: rgb(20, 20, 20);
+  font-family: Helvetica;
+}
+h1 {
+  font-family: Courier;
+  font-size: 50px;
+  color: #6FFFE9;
+}
+h2 {
+  font-size: 18px;
+}
+a {
+  text-decoration: none;
+  color: blue;
+}
+a:hover{
+  tes-decoration: none;
+  color: green;
+}
