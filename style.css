@@ -24,22 +24,6 @@ a:hover {
   color: green;
 }
 
-.card {
-  background: rgba(255, 255, 255, 0.01);
-  color: white;
-}
-
-.card h5 {
-  font-size: 22px;
-  font-weight: bold;
-}
-
-.card p {
-  font-size: 15px;
-  text-align: center;
-}
-
-
 /* custom design */
 #banner {
   padding: 10px 0;
@@ -48,8 +32,14 @@ a:hover {
 }
 
 #banner h1 {
+<<<<<<< HEAD
   font-size: 100px;
   font-family: 'Permanent Marker', cursive;
+=======
+  font-size: 100px ;
+  font-family: 'Permanent Marker', cursive;
+
+>>>>>>> 29aa2949b9aaa48c04e175f5ce2e7a319ee6c164
 }
 
 #banner p {
@@ -57,24 +47,37 @@ a:hover {
   font-weight: lighter;
   opacity: 0.7;
 }
+<<<<<<< HEAD
 
 .card {
   padding: 50px;
   text-align: center;
 }
 
+=======
+.card{
+  padding: 50px;
+  text-align: center;
+}
+>>>>>>> 29aa2949b9aaa48c04e175f5ce2e7a319ee6c164
 #footer {
   background: black;
   color: white;
   font-size: 20px;
   padding: 20px;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 29aa2949b9aaa48c04e175f5ce2e7a319ee6c164
 #footer a {
   font-size: 20px;
   color: white;
 }
+<<<<<<< HEAD
 
+=======
+>>>>>>> 29aa2949b9aaa48c04e175f5ce2e7a319ee6c164
 #footer a:hover {
   color: #1C2541;
 }
